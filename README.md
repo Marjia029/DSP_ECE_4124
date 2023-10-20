@@ -1,4 +1,4 @@
-# Course Title: Data Signal Processing Sessional
+# Course Title: Digital  Signal Processing Sessional
 ## Course No: ECE 4124
 
 ### Submitted By-
